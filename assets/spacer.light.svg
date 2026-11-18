@@ -2,4 +2,4 @@
 <style>
 
 text{font-family:'Ioskeley NF', ui-monospace, monospace;font-variant-numeric:tabular-nums}.px{font-family:'Departure Mono', ui-monospace, monospace}</style>
-<rect width="846" height="28" fill="none"/><line x1="0" y1="14.5" x2="846" y2="14.5" stroke="#c3ccd6" stroke-width="1"/></svg>
+<line x1="0" y1="14.5" x2="846" y2="14.5" stroke="#c3ccd6" stroke-width="1"/></svg>
